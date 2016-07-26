@@ -20,6 +20,7 @@ Usage
 ----------
 
     ./mysh
+    ./mysh --bonus
 
 
 > [dimitriwyzlic.com](http://dimitriwyzlic.com) &nbsp;&middot;&nbsp;
