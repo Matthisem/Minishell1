@@ -13,7 +13,8 @@ Featuring
 
 Installation
 ----------
-
+    git clone https://github.com/ethanquix/Minishell1.git
+    cd Minishell1
     make re
 Usage
 ----------
